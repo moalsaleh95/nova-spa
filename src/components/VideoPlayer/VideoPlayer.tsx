@@ -59,7 +59,7 @@ const VideoPlayer = () => {
                 // controls
                 poster={vid_poster}
             >
-                <source src="https://novatasspa.s3.amazonaws.com/Novatasspa.mp4" type="video/mp4" />
+                <source src="https://www.pexels.com/download/video/6628412/" type="video/mp4" />
             </video>
 
             <div className='absolute flex left-[30px] bottom-[30px]' >
